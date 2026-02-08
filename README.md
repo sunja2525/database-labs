@@ -1,6 +1,5 @@
 # Database Systems Labs - Spring 2026
 
-**Student:** Your Name
 **Student:** Shayan Khan
 **Program:** Data Science
 
